@@ -1,5 +1,3 @@
-[AutoIt]
-
 UO-Patch
 ========
 
